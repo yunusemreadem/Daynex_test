@@ -1,0 +1,40 @@
+
+.slider-bg{
+  background-color: #f8f8f8;
+}
+.side-chair{
+  height: 1.5vw;
+  width: 1.5vw;
+  border-radius: 15vw 1vw 15vw 15vw;
+  border: 0px solid;
+}
+.side-chair.side-chair-turquaz{
+  background: turquoise;
+}
+.side-chair.side-chair-red{
+  background: rgb(240, 47, 47);
+}
+.side-chair.side-chair-orange{
+  background: rgba(238, 167, 36, 0.795);
+}
+.slider-fs-title{
+  font-size: calc( 1em + 3vmin);
+  font-weight: bold;
+}
+.slider-fs-text{
+  font-size: calc( 0.50em + 1vmin);
+}
+.slider-fs-price{
+  font-size: calc( 1.5em + 1vmin);
+}
+.slider-rs-img input{
+  width: 100%;
+  max-width: 3vw;
+  height: auto;
+}
+.slider-height{
+  height:510px;
+}
+.slider-index{
+  z-index: 0;
+}
